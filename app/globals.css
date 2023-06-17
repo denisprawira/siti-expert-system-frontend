@@ -16,6 +16,6 @@
   }
 }
 
-body {
-
+body,html {
+  height:100%;
 }
